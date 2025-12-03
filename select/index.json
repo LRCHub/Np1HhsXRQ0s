@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "アニメじゃない ～夢を忘れた古い地球人よ～",
+  "base_artist": "新井正人",
+  "createdAt": "2025-12-03T08:55:30.375364Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アニメじゃない-夢を忘れた古い地球人よ-",
+      "artist": "新井正人",
+      "has_synced": true,
+      "path": "select/01_アニメじゃない-夢を忘れた古い地球人よ-_新井正人.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アニメじゃない～夢を忘れた古い地球人よ～",
+      "artist": "Masahito Arai",
+      "has_synced": true,
+      "path": "select/02_アニメじゃない~夢を忘れた古い地球人よ~_Masahito_Arai.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Anime ja nai ~ Yume wo Wasureta Furui Chikyuujin yo [アニメじゃない 〜夢を忘れた古い地球人よ〜]",
+      "artist": "Masahito Arai",
+      "has_synced": true,
+      "path": "select/03_Anime_ja_nai_~_Yume_wo_Wasureta_Furui_Chikyuujin_yo_[アニメじゃない_〜夢を忘れた古い地球人よ〜]_Masahito_Arai.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アニメじゃない～夢を忘れた古い地球人よ～",
+      "artist": "Masato Arai",
+      "has_synced": true,
+      "path": "select/04_アニメじゃない~夢を忘れた古い地球人よ~_Masato_Arai.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アニメじゃない～夢を忘れた古い地球人よ",
+      "artist": "新井正人",
+      "has_synced": true,
+      "path": "select/05_アニメじゃない~夢を忘れた古い地球人よ_新井正人.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アニメじゃない ～夢を忘れた古い地球人よ～",
+      "artist": "新井正人",
+      "has_synced": true,
+      "path": "select/06_アニメじゃない_~夢を忘れた古い地球人よ~_新井正人.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アニメじゃない-夢を忘れた古い地球人よ- (テレビ 『機動戦士ガンダムZZ』 より)",
+      "artist": "Gundam",
+      "has_synced": true,
+      "path": "select/07_アニメじゃない-夢を忘れた古い地球人よ-_(テレビ_『機動戦士ガンダムZZ』_より)_Gundam.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アニメじゃない～夢を忘れた古い地球人よ",
+      "artist": "GUNDAM",
+      "has_synced": true,
+      "path": "select/08_アニメじゃない~夢を忘れた古い地球人よ_GUNDAM.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アニメじゃない -夢を忘れた古い地球人よ-",
+      "artist": "新井正人",
+      "has_synced": true,
+      "path": "select/09_アニメじゃない_-夢を忘れた古い地球人よ-_新井正人.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アニメじゃない （夢を忘れた古い地球人よ）",
+      "artist": "Soundtrack",
+      "has_synced": true,
+      "path": "select/10_アニメじゃない_(夢を忘れた古い地球人よ)_Soundtrack.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アニメじゃない -夢を忘れた古い地球人よ-",
+      "artist": "新井正人",
+      "has_synced": false,
+      "path": "select/pl_01_アニメじゃない_-夢を忘れた古い地球人よ-_新井正人.txt"
+    }
+  ]
+}
